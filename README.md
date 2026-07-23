@@ -1,4 +1,4 @@
-# Your Name — Portfolio
+# Vighnesh Achar — Portfolio
 
 A playful, animated, single-page portfolio built with plain HTML, CSS, and
 JavaScript. No build tools, no frameworks, no npm install — just upload and go.
