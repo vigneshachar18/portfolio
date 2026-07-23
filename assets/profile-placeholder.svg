@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280">
+  <rect width="280" height="280" fill="#7C5CFC"/>
+  <circle cx="140" cy="105" r="50" fill="#FBF7FF"/>
+  <path d="M40 260c0-60 45-95 100-95s100 35 100 95" fill="#FBF7FF"/>
+  <text x="140" y="270" font-family="monospace" font-size="14" fill="#5B3DF6" text-anchor="middle">replace me: assets/profile-placeholder.svg</text>
+</svg>
